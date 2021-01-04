@@ -5,6 +5,6 @@ I am currently working on running Fabric Loader on inf-dev versions of Minecraft
 
 If you need to contact me, contact me on discord through my profile id: `Zero_DSRS_VX#1318`
 
-Merry Christmas!
+Happy new year!
 :tiny_potato:
 
