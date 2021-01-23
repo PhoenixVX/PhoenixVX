@@ -8,3 +8,5 @@ If you need to contact me, contact me on discord through my profile id: `Zero_DS
 Happy new year!
 :tiny_potato:
 
+[![PheonixVX's github stats](https://github-readme-stats.vercel.app/api?username=PheonixVX)](https://github.com/anuraghazra/github-readme-stats)
+
