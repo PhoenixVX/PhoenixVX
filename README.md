@@ -2,7 +2,7 @@
 
 My name is PhoenixVX, I am an intermediate modder for the Fabric Toolchain, and all things computerwise.
 
-If you need to contact me, contact me on discord through my profile id: `Zero_DSRS_VX#1318`
+If you need to contact me, contact me on discord through my profile id: `zero_dsrs_vx`
 
 Happy new year!
 <br/>
